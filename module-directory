@@ -1,0 +1,6 @@
+mkdir my-vpc-module
+cd my-vpc-module
+touch main.tf
+touch variables.tf
+touch outputs.tf
+
